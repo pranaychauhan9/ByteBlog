@@ -1,0 +1,40 @@
+<div class="container">
+    <div class="mt-5 col-12 col-md-8 col-lg-6 mx-auto">
+        <div class="card bg-dark text-light shadow-lg rounded-4 p-4">
+            <h2 class="text-center mb-4 fw-bold">✏️ Edit Category</h2>
+
+            <ng-container *ngIf="category; else notfound">
+                <form #form="ngForm" (ngSubmit)="onFormSubmit()">
+                    <div class="mb-3">
+                        <label class="form-label" for="categoryId">Category ID</label>
+                        <input type="text" id="categoryId" class="form-control form-control-lg rounded-3" 
+                               name="categoryId" [(ngModel)]="category.id" disabled />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label" for="categoryName">Category Name</label>
+                        <input type="text" id="categoryName" class="form-control form-control-lg rounded-3" 
+                               name="categoryName" [(ngModel)]="category.name" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label" for="categoryUrlHandle">URL Handle</label>
+                        <input type="text" id="categoryUrlHandle" class="form-control form-control-lg rounded-3" 
+                               name="categoryUrlHandle" [(ngModel)]="category.urlHandle" />
+                    </div>
+
+                    <div class="mt-4 d-flex justify-content-between">
+                        <button type="submit" class="btn btn-success">💾 Save</button>
+                        <button type="button" class="btn btn-danger ms-3" (click)="onDelete()">🗑️ Delete</button>
+                    </div>
+                </form>
+            </ng-container>
+
+            <ng-template #notfound>
+                <div class="alert alert-warning text-center mt-3" role="alert">
+                    ⚠️ Category Not Found!
+                </div>
+            </ng-template>
+        </div>
+    </div>
+</div>

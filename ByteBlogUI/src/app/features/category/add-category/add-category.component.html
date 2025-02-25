@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="mt-5 col-12 col-md-10 col-lg-8 mx-auto">
+        <div class="card bg-dark text-light shadow-lg rounded-4 p-4">
+            <h2 class="text-center mb-4 fw-bold">➕ Add Category</h2>
+
+            <form #form="ngForm" (ngSubmit)="onFormSubmit()">
+                <div class="mb-3">
+                    <label for="categoryName" class="form-label">Category Name</label>
+                    <input type="text" class="form-control form-control-lg rounded-3" 
+                           id="categoryName" name="categoryName" [(ngModel)]="model.name" placeholder="Enter category name" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="categoryUrlHandle" class="form-label">Category URL Handle</label>
+                    <input type="text" class="form-control form-control-lg rounded-3" 
+                           id="categoryUrlHandle" name="categoryUrlHandle" [(ngModel)]="model.urlHandle" placeholder="Enter category URL handle">
+                </div>
+
+                <div class="mt-4 d-flex justify-content-between">
+                    <button class="btn btn-success" type="submit">💾 Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

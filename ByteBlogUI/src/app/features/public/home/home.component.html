@@ -1,0 +1,27 @@
+<div class="container bg-dark text-light py-4 rounded-3 mt-1">
+  <div class="my-5">
+    <div class="row g-4">
+      <ng-container *ngIf="blogs$ | async as blogs">
+        <div class="col-12 col-md-6 col-lg-4 " *ngFor="let blog of blogs">
+          <div class="card bg-dark text-light h-100 shadow-lg rounded-4 border-light bg-secondary overflow-hidden">
+            <img [src]="blog.featuredImageUrl" class="card-img-top" [alt]="blog.title"
+              style="height: 200px; object-fit: cover;">
+            <div class="card-body d-flex flex-column text-light">
+              <h5 class="card-title fw-bold">
+                {{blog.title}}
+              </h5>
+              <p class="card-text text-light">
+                {{blog.shortDescription}}
+              </p>
+              <div class="mt-auto">
+                <a [routerLink]="['/blog', blog.urlHandle]" class="btn btn-info w-100">
+                  📖 Read More
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</div>

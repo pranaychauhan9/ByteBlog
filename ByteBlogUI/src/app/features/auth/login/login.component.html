@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="mt-5">
+        <div class="col-12 col-md-6 col-lg-4 mx-auto">
+            <div class="card bg-dark text-light shadow-lg rounded-4 p-4">
+                <h2 class="text-center mb-4 fw-bold">Login</h2>
+
+                <form #form="ngForm" (ngSubmit)="onFormSubmit()">
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control form-control-lg rounded-3" 
+                               name="email" id="email" [(ngModel)]="model.email" required>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" class="form-control form-control-lg rounded-3" 
+                               name="password" id="password" [(ngModel)]="model.password" required>
+                    </div>
+                    
+                    <div class="d-grid">
+                        <button class="btn btn-outline-light btn-lg" type="submit">Login</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
