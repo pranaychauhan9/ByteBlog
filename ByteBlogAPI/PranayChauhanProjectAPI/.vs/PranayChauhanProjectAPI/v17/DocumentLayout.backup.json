@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|d:\\pranayproject\\api\\pranaychauhanprojectapi\\pranaychauhanprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|solutionrelative:pranaychauhanprojectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|d:\\pranayproject\\api\\pranaychauhanprojectapi\\pranaychauhanprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|solutionrelative:pranaychauhanprojectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|d:\\pranayproject\\api\\pranaychauhanprojectapi\\pranaychauhanprojectapi\\configuration\\deepseeksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|solutionrelative:pranaychauhanprojectapi\\configuration\\deepseeksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|d:\\pranayproject\\api\\pranaychauhanprojectapi\\pranaychauhanprojectapi\\repository\\interface\\ideepseekrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|solutionrelative:pranaychauhanprojectapi\\repository\\interface\\ideepseekrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|d:\\pranayproject\\api\\pranaychauhanprojectapi\\pranaychauhanprojectapi\\repository\\implementation\\deepseekrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|solutionrelative:pranaychauhanprojectapi\\repository\\implementation\\deepseekrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|d:\\pranayproject\\api\\pranaychauhanprojectapi\\pranaychauhanprojectapi\\controllers\\deepseekcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|solutionrelative:pranaychauhanprojectapi\\controllers\\deepseekcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|d:\\pranayproject\\api\\pranaychauhanprojectapi\\pranaychauhanprojectapi\\repository\\implementation\\chatgptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EC0E98-72F2-43C7-A314-6B91B40711B1}|PranayChauhanProjectAPI\\PranayChauhanProjectAPI.csproj|solutionrelative:pranaychauhanprojectapi\\repository\\implementation\\chatgptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatGPTRepository.cs",
+              "DocumentMoniker": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Repository\\Implementation\\ChatGPTRepository.cs",
+              "RelativeDocumentMoniker": "PranayChauhanProjectAPI\\Repository\\Implementation\\ChatGPTRepository.cs",
+              "ToolTip": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Repository\\Implementation\\ChatGPTRepository.cs",
+              "RelativeToolTip": "PranayChauhanProjectAPI\\Repository\\Implementation\\ChatGPTRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:08:31.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeepSeekController .cs",
+              "DocumentMoniker": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Controllers\\DeepSeekController .cs",
+              "RelativeDocumentMoniker": "PranayChauhanProjectAPI\\Controllers\\DeepSeekController .cs",
+              "ToolTip": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Controllers\\DeepSeekController .cs",
+              "RelativeToolTip": "PranayChauhanProjectAPI\\Controllers\\DeepSeekController .cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:04:44.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeepSeekRepository.cs",
+              "DocumentMoniker": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Repository\\Implementation\\DeepSeekRepository.cs",
+              "RelativeDocumentMoniker": "PranayChauhanProjectAPI\\Repository\\Implementation\\DeepSeekRepository.cs",
+              "ToolTip": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Repository\\Implementation\\DeepSeekRepository.cs",
+              "RelativeToolTip": "PranayChauhanProjectAPI\\Repository\\Implementation\\DeepSeekRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:03:15.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDeepSeekRepository.cs",
+              "DocumentMoniker": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Repository\\Interface\\IDeepSeekRepository.cs",
+              "RelativeDocumentMoniker": "PranayChauhanProjectAPI\\Repository\\Interface\\IDeepSeekRepository.cs",
+              "ToolTip": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Repository\\Interface\\IDeepSeekRepository.cs",
+              "RelativeToolTip": "PranayChauhanProjectAPI\\Repository\\Interface\\IDeepSeekRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:02:11.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeepSeekSettings.cs",
+              "DocumentMoniker": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Configuration\\DeepSeekSettings.cs",
+              "RelativeDocumentMoniker": "PranayChauhanProjectAPI\\Configuration\\DeepSeekSettings.cs",
+              "ToolTip": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Configuration\\DeepSeekSettings.cs",
+              "RelativeToolTip": "PranayChauhanProjectAPI\\Configuration\\DeepSeekSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:57:17.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PranayChauhanProjectAPI\\appsettings.json",
+              "ToolTip": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\appsettings.json",
+              "RelativeToolTip": "PranayChauhanProjectAPI\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T07:42:30.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PranayChauhanProjectAPI\\Program.cs",
+              "ToolTip": "D:\\PranayProject\\API\\PranayChauhanProjectAPI\\PranayChauhanProjectAPI\\Program.cs",
+              "RelativeToolTip": "PranayChauhanProjectAPI\\Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAUwIYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:06:11.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Ignore appsettings.json
+appsettings.json
+
+# Ignore node_modules (if applicable for UI)
+node_modules/
+
+obj/
+bin/
+
+
